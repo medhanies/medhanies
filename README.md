@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src=<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/lq2u8GnHsDMTCzs5f4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bug-gifvif-programmer-lq2u8GnHsDMTCzs5f4">via GIPHY</a></p>  />
+  <img src="https://giphy.com/embed/lq2u8GnHsDMTCzs5f4" />
 </div>
 
 ###
