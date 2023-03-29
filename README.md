@@ -87,6 +87,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/medhanies/medhanies/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/medhanies/medhanies/12f10353bd19109fcbb8a4b1e1c5000018787357/snake.svg" alt="Snake animation" />
 
 ###
+<!-- "https://raw.githubusercontent.com/medhanies/medhanies/blob/output/snake.svg" -->
