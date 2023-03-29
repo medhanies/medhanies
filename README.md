@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://giphy.com/embed/lq2u8GnHsDMTCzs5f4" />
+  <img height="150" src="[https://giphy.com/embed/lq2u8GnHsDMTCzs5f4](https://giphy.com/gifs/bug-gifvif-programmer-lq2u8GnHsDMTCzs5f4)" />
 </div>
 
 ###
