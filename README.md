@@ -1,5 +1,7 @@
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://i.giphy.com/media/lq2u8GnHsDMTCzs5f4/giphy.webp" />
+  <img height="313" src="https://camo.githubusercontent.com/a8e0e4d368537ccd78655f174062418e480d0bbaf90163718fbece039fefe2d2/68747470733a2f2f692e67697068792e636f6d2f6d656469612f6c71327538476e4873444d54437a733566342f67697068792e77656270"  />
 </div>
 
 ###
@@ -8,7 +10,7 @@
   <a href="https://www.linkedin.com/in/medhaniesolomon/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:medhaniesolomon@gmail.com" target="_blank">
+  <a href="medhaniesolomon@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -42,11 +44,11 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" width="52" alt="jenkins logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" width="52" alt="jenkins logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
@@ -55,6 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" width="52" alt="rust logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="nginx logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
@@ -85,7 +88,7 @@
   <a href="https://www.linkedin.com/in/medhaniesolomon/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:medhaniesolomon@gmail.com" target="_blank">
+  <a href="medhaniesolomon@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
