@@ -33,7 +33,7 @@
 
 ###
 
-<h4 align="left">I'm Medhanie Solomon from Dallas, Texas<br><br>- 🔭 I’m working as a DevOps / Cloud Engineer<br>- 📚 I'm currently learning rust! 🦀<br>- ⚡ In my free time I play video games 🎮🕹️👨🏾‍💻</h4>
+<h4 align="left">I'm Medhanie Solomon from Dallas, Texas<br><br>- 🔭 I’m working as a DevOps / Cloud Engineer<br>- 📚 I'm currently learning cloud computing! ☁️🖥️<br>- ⚡ In my free time I play video games 🎮🕹️👨🏾‍💻</h4>
 
 ###
 
