@@ -33,7 +33,7 @@
 
 ###
 
-<h4 align="left">I'm Medhanie Solomon from Dallas, Texas<br><br>- 🔭 I’m working as a DevOps / Cloud Engineer<br>- 📚 I'm currently learning cloud computing! ☁️🖥️<br>- ⚡ In my free time I play video games 🎮🕹️👨🏾‍💻</h4>
+<h4 align="left">I'm Medhanie Solomon from Dallas, Texas<br><br>- 🔭 I’m working as a AI Data Trainer<br>- 📚 I'm currently learning about Web3! ☁️🖥️<br>- ⚡ In my free time I play video games 🎮🕹️👨🏾‍💻</h4>
 
 ###
 
@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/solidity/solidity-original.svg" height="40" width="52" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" width="52" alt="jenkins logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
