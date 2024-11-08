@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="313" src="https://camo.githubusercontent.com/a8e0e4d368537ccd78655f174062418e480d0bbaf90163718fbece039fefe2d2/68747470733a2f2f692e67697068792e636f6d2f6d656469612f6c71327538476e4873444d54437a733566342f67697068792e77656270"  />
+  <img height="313" src="https://66.media.tumblr.com/ebd2c3a21f512edb5163708fe269b4c9/tumblr_pn40sxY8Rh1x6lumfo1_500.gif"  />
 </div>
 
 ###
