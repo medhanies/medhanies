@@ -33,7 +33,7 @@
 
 ###
 
-<h4 align="left">I'm Medhanie Solomon from Dallas, Texas<br><br>- 🔭 I’m working as a AI Data Trainer<br>- 📚 I'm currently learning about Web3! ☁️🖥️<br>- ⚡ In my free time I play video games 🎮🕹️👨🏾‍💻</h4>
+<h4 align="left">I'm Medhanie Solomon from Dallas, Texas<br><br>- 🔭 Claims Associate at StateFarm<br>- 📚 I am currently learning about different technologies ☁️🖥️<br>- ⚡ In my free time I play video games 🎮🕹️👨🏾‍💻</h4>
 
 ###
 
