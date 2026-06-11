@@ -1,103 +1,24 @@
-<br clear="both">
+### Hi, I'm Medhanie 👋
 
-<div align="center">
-  <img height="313" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHgzOGZxYjBxbTc5NGZ4OTdiZW1vdW5qYzMyMzg5NGR2azZ5MGJudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ErZhfDZ4TMpa/giphy.webp?auto=format&dpr=3&w=4500"  />
-</div>
+Compliance and data-quality analyst focused on **AML, financial-crime detection, and data governance**. I work at the intersection of regulated data and the tooling that keeps it trustworthy.
 
-###
+#### 🔭 What I'm building
+- **[AML Transaction Flagging Engine](https://github.com/medhanies/aml-transaction-flagging-engine)** — a Python/SQL pipeline that scores transactions against structuring, rapid-movement, and high-risk-jurisdiction typologies, with explainable flags for analyst review.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/medhaniesolomon/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href= "mailto: medhaniesolomon@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-  </a>
-</div>
+#### 🧰 Tech I work with
+- **Languages:** Python, SQL
+- **Data:** pandas, PostgreSQL, dbt-style transforms
+- **Cloud / security:** AWS (Security Specialty certified)
+- **Workflow:** Git, Jupyter, VS Code
 
-###
+#### 💼 Background
+- M.S. in Financial Technology & Analytics
+- ~2 years across **State Farm** (claims data validation) and **Welocalize** (annotation-guideline QA, gap reporting)
+- Comfortable translating regulatory and policy language into data checks
 
-<br clear="both">
+#### 🎯 What I'm looking for
+Roles in **AML / BSA, compliance analytics, data governance & quality, dispute analytics, or finance operations** — based in **NYC or Chicago** (open to hybrid/remote).
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=medhanies.medhanies&"  />
-</div>
-
-###
-
-<h1 align="center">howdy y'all! 🤠👋🏾</h1>
-
-###
-
-<h3 align="left">🙋🏾‍♂️ About Me</h3>
-
-###
-
-<h4 align="left">I'm Medhanie Solomon from Dallas, Texas<br><br>- 🔭 Claims Associate at StateFarm<br>- 📚 I am currently learning about different technologies ☁️🖥️<br>- ⚡ In my free time I play video games 🎮🕹️👨🏾‍💻</h4>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="52" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/solidity/solidity-original.svg" height="40" width="52" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" width="52" alt="jenkins logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="nginx logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=medhanies&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medhanies&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/medhaniesolomon/" medhaniesolomon">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href= "mailto: medhaniesolomon@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"
-      />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/medhanies/medhanies/12f10353bd19109fcbb8a4b1e1c5000018787357/snake.svg" alt="Snake animation" />
-
-###
-<!-- "https://raw.githubusercontent.com/medhanies/medhanies/blob/output/snake.svg" -->
+#### 📫 Reach me
+- LinkedIn: [linkedin.com/in/medhanies](https://www.linkedin.com/in/medhanies)
+- Email: open to recruiter outreach via LinkedIn
